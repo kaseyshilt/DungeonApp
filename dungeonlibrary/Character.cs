@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace dungeonlibrary
 {
-        abstract class Character
+        public abstract class Character
     {
         //fields
         private int _life;
